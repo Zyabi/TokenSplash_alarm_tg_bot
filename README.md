@@ -22,8 +22,8 @@ A Telegram bot that monitors [Bybit](https://www.bybit.com)'s announcement feed 
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/bybit-token-splash-bot.git
-   cd bybit-token-splash-bot
+   git clone https://github.com/Zyabi/TokenSplash_alarm_tg_bot.git
+   cd TokenSplash_alarm_tg_bot
    ```
 
 2. **Install dependencies**
@@ -41,7 +41,7 @@ A Telegram bot that monitors [Bybit](https://www.bybit.com)'s announcement feed 
 4. **Run the bot**
 
    ```bash
-   python bot.py
+   python main.py
    ```
 
 ## Commands
